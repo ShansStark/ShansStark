@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shunmuga Rajeswaran</h1>
-<h3 align="center">Azure Cloud Engineer | Azure Networking | Cloud Infrastructure | Technical Advisor</h3>
+<h3 align="center">Azure Cloud Engineer | Microsoft Azure Networking CSS Technical Advisor | Cloud Infrastructure</h3>
 
 - ☁️ Azure Cloud Engineer with experience in planning, deploying, configuring, and troubleshooting Azure cloud infrastructure and enterprise networking solutions.
+- 💼 Microsoft Azure Networking **CSS Technical Advisor**, supporting enterprise customers with Azure cloud deployments, architecture validation, troubleshooting, and operational best practices.
 - 🤝 Collaborated with enterprise clients, solution architects, and engineering teams to deliver secure, scalable, and highly available cloud environments.
-- 💡 Hands-on experience across Azure networking, compute, storage, identity, monitoring, and security services, supporting deployments, migrations, architecture validation, and operational excellence.
-- 💻 Familiar with **C++, C#, and Python**, with a strong foundation in programming and problem-solving.
+- 💡 Hands-on experience across Azure Networking, Compute, Storage, Identity, Monitoring, and Security services, supporting deployments, migrations, architecture validation, and operational excellence.
+- 💻 Proficient in **C++** and **C#**, with a working knowledge of **Python**.
 - 🌱 Currently learning **Terraform, Infrastructure as Code (IaC), and Azure Automation**.
 - 📫 Reach me at **shunmugalv3@gmail.com**
 
