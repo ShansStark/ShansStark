@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shunmuga Rajeswaran</h1>
-<h3 align="center">Azure Cloud Engineer | Ex-Microsoft Azure Networking CSS Technical Advisor | Cloud Infrastructure</h3>
+<h3 align="center">Azure Cloud Engineer | Former Azure Networking CSS Technical Advisor, Microsoft CSS (via LTM) | Cloud Infrastructure</h3>
 
 - ☁️ Azure Cloud Engineer with experience in planning, deploying, configuring, and troubleshooting Azure cloud infrastructure and enterprise networking solutions.
 - 💼 Microsoft Azure Networking **CSS Technical Advisor**, supporting enterprise customers with Azure cloud deployments, architecture validation, troubleshooting, and operational best practices.
