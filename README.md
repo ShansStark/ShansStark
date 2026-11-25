@@ -5,7 +5,6 @@
 - 💼 Microsoft Azure Networking **CSS Technical Advisor**, supporting enterprise customers with Azure cloud deployments, architecture validation, troubleshooting, and operational best practices.
 - 🤝 Collaborated with enterprise clients, solution architects, and engineering teams to deliver secure, scalable, and highly available cloud environments.
 - 💡 Hands-on experience across Azure Networking, Compute, Storage, Identity, Monitoring, and Security services, supporting deployments, migrations, architecture validation, and operational excellence.
-- 💻 Proficient in **C++** and **C#**, with a working knowledge of **Python**.
 - 🌱 Currently learning **Terraform, Infrastructure as Code (IaC), and Azure Automation**.
 - 📫 Reach me at **shunmugalv3@gmail.com**
 
